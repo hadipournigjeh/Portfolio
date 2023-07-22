@@ -82,3 +82,8 @@ section {
     font-weight: 700;
 }
 
+.home-content h1 {
+    font-size: 5.6rem;
+    font-weight: 700;
+    line-height: 1.3;
+}
