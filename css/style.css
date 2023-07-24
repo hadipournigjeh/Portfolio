@@ -153,3 +153,8 @@ span {
 .about-img img {
     width: 35vw;
 }
+
+.heading {
+    text-align: center;
+    font-size: 4.5rem;
+}
