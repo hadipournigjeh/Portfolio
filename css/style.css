@@ -163,3 +163,7 @@ span {
     text-align: left;
     line-height: 1.2;
 }
+
+.about-content h3 {
+    font-size: 2.6rem;
+}
