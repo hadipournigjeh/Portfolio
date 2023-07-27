@@ -238,3 +238,7 @@ span {
     display: flex;   
 }
 
+.portfolio-box img {
+    width: 100%;
+}
+
