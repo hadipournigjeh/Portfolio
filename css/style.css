@@ -393,4 +393,8 @@ span {
     .header {
         padding: 2rem 3%;
     }
+
+    .section {
+        padding: 10rem 3% 2rem;
+    }
 }
