@@ -380,3 +380,11 @@ span {
     font-size: 2.4rem;
     color: var(--second-bg-color);
 }
+
+
+/* BREAKPOINTS */  
+@media (max-width: 1200px) {
+    html {
+        font-size: 55%;
+    }
+}
