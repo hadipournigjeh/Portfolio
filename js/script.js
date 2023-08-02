@@ -1,4 +1,5 @@
 // ============= toggle icon navbar =================
+let menuIcon = document.querySelector("#menu-icon");
 
 // ============= scroll sections active link =================
 let sections = document.querySelectorAll("section");
