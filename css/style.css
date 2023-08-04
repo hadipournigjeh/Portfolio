@@ -437,4 +437,8 @@ span {
     .home-content h3 {
         font-size: 2.6rem;
     }
+
+    .home-content h1 {
+        font-size: 5rem;
+    }
 }
