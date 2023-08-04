@@ -478,5 +478,7 @@ span {
 }
 
 @media (max-width: 617px) {
-    
+    .portfolio-container {
+        grid-template-columns: 1fr;
+    }
 }
