@@ -433,4 +433,8 @@ span {
     .home {
         flex-direction: column;
     }
+
+    .home-content {
+        font-size: 2.6rem;
+    }
 }
