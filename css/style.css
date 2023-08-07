@@ -496,3 +496,7 @@ span {
         width: 100%;
     }
 }
+
+@media (max-width: 365px) {
+    
+}
