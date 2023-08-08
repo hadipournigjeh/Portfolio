@@ -52,3 +52,4 @@ ScrollReveal().reveal(
     origin: "bottom",
   }
 );
+ScrollReveal().reveal(".home-content h1, .about-img", { origin: "left" });
