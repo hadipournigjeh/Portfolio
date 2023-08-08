@@ -53,3 +53,4 @@ ScrollReveal().reveal(
   }
 );
 ScrollReveal().reveal(".home-content h1, .about-img", { origin: "left" });
+ScrollReveal().reveal(".home-content p, .about-content", { origin: "right" });
