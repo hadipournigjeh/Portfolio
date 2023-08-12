@@ -198,7 +198,7 @@ span {
 /* --- portfolio design --- */
 
 .portfolio {
-    background: var(--second-bg-color);
+    background: var(--bg-color);
 }
 
 .portfolio h2 {
