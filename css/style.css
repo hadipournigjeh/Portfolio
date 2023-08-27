@@ -278,15 +278,15 @@ span {
 
 /* --- Graphic design --- */
 
-.services {
+.Graphic {
     background: var(--second-bg-color);
 }
 
-.services h2 {
+.Graphic h2 {
     margin-bottom: 5rem;
 }
 
-.services-container {
+.Graphic-container {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -294,7 +294,7 @@ span {
     gap: 2rem;
 }
 
-.services-container .services-box {
+.Graphic-container .Graphic-box {
     flex: 1 1 30rem;
     background: var(--bg-color);
     padding: 3rem 2rem 4rem;
@@ -304,21 +304,21 @@ span {
     transition: .5s ease;
 }
 
-.services-container .services-box:hover {
+.Graphic-container .Graphic-box:hover {
     border-color: var(--main-color);
     transform: scale(1.02);
 }
 
-.services-box i {
+.Graphic-box i {
     font-size: 7rem;
     color: var(--main-color);
 }
 
-.services-box h3 {
+.Graphic-box h3 {
     font-size: 2.6rem;
 }
 
-.services-box p {
+.Graphic-box p {
     font-size: 1.6rem;
     margin: 1rem 0 3rem;    
 }
