@@ -323,6 +323,11 @@ span {
     margin: 1rem 0 3rem;    
 }
 
+.image-graphic {
+    width: 500px;
+    height: auto;
+}
+
 /* --- contact design --- */
 
 .contact h2 {
