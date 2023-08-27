@@ -326,6 +326,7 @@ span {
 .image-graphic {
     width: 500px;
     height: auto;
+    border-radius: 2rem;
 }
 
 /* --- contact design --- */
