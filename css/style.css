@@ -15,7 +15,7 @@
     --bg-color: #1f242d;
     --second-bg-color: #323946;
     --text-color: #fff;
-    --main-color: #ffa31a ;
+    --main-color: #0ef; ;
 }
 
 html {
@@ -276,6 +276,10 @@ span {
 }
 
 /* --- Graphic design --- */
+
+.services {
+    background: var(--second-bg-color);
+}
 
 .services h2 {
     margin-bottom: 5rem;
